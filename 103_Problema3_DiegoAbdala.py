@@ -2,7 +2,7 @@
 # Nombre del estudiante: Diego Rafael Abdala Florez
 # Grupo: 213022_103
 # Programa: Ingeniería de Sistemas
-# Código Fuente: autoría propia con asistencia de IA para depuración
+# Código Fuente: autoría propia 
 # ---------------------------------------------------------
 
 def determinar_cantidad_pedido(stock_actual, stock_minimo):
